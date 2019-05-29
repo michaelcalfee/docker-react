@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hi there2!
+          Hi there on AWS!
         </a>
       </header>
     </div>
